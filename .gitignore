@@ -44,3 +44,4 @@ CMakeFiles/
 /ZERO_CHECK.dir
 taglib.xcodeproj
 CMakeScripts
+build/
